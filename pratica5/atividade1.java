@@ -9,5 +9,6 @@ public class Soma {
         soma = soma + i;
 
         System.out.println("A soma dos numeros de 7 a 20 é :" + soma);
+        scanner.close();
     }
 }

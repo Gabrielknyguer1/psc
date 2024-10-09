@@ -15,5 +15,6 @@ public class Fatorial {
         else(num<0) {
             System.out.println("Numero invalido");
         }
+        scanner.close();
     }
 }

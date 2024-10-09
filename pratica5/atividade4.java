@@ -19,5 +19,6 @@ public class MediaIdade {
                 System.out.println("Finalizar");
             }    
         }
+         scanner.close();
     }
 }
